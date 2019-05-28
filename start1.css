@@ -1,0 +1,43 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(start1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color : white;
+    text-align: justify;
+}
+h2{
+    color : whitesmoke;
+    text-align: justify;
+}
+.inst{
+    text-align: center;
+    font-family: Arial; 
+}
+.inst1 li h2{
+    text-align: center;
+    text-orientation: left;
+    font-style: Arial;
+}
+.button
+{
+    margin-top: 45px;
+    margin-left: 650px;
+}
+.btn-one{
+    padding: 10px 20px;
+    border: 1px solid whitesmoke;
+    color: whitesmoke;
+    background-color: blue;
+} 
+.ready{
+    margin-top: 45px;
+    margin-left: 610px;
+}
